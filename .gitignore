@@ -1,0 +1,20 @@
+# Kernel build intermediate files
+*.o
+*.mod
+*.mod.c
+*.cmd
+*.order
+Module.symvers
+
+# Backup files
+*_backup.c
+*~
+*.swp
+
+# Local QEMU environment
+rootfs/
+output/
+
+# Temporary files
+*.tmp
+*.bak
