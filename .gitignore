@@ -18,3 +18,9 @@ output/
 # Temporary files
 *.tmp
 *.bak
+
+# Compiled kernel modules
+*.ko
+
+# Compiled test programs
+task1_ioctl/test_ioctl
